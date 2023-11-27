@@ -1,0 +1,2 @@
+the standard stick texture from minetest game is used
+link to minetest game: https://github.com/minetest/minetest_game.git

@@ -1,0 +1,15 @@
+# textdomain: spawn_entity
+
+digilines command block=командный блок digilines
+spawn entity x y z=спавн сущности по координатам x y z
+you dont have give priv=у вас нет привилегии give
+param 1 not string=параметр 1 не строка
+param =параметр 
+ not number= не число
+E: count of params < 4=E: число параметров < 4
+E: cord=E: координата
+ not number, cord: =  не число, координата: 
+drops an item at coordinates, for example /drop_item default:stick 1 2 3=скинуть предмет по координатам, например, /drop_item default:stick 1 2 3
+entity=сущность
+is not registered=не зарегестрирована
+spawned at=заспавнена по координатам

@@ -1,0 +1,13 @@
+# textdomain: tp_stick
+
+<target_pos> optional: <area_pos1> <area_pos2>=<целевая позиция> опционально: <1 точка> <2 точка>
+or <player_recivier>=или <игрок_получатель>
+not online=не в сети
+Incorrect syntax=Неправильный синтаксис
+Param =Параметр 
+ not number= не число
+The entity is not in the teleport area=Сущьность не в зоне телепорта
+get tp_stick for teleport to target pos.=получить tp_stick для телепорта по целевой позиции
+if you specified an area for teleport, then teleport will be carried out only from this area=если вы указали область для телепорта, то телепорт будет осуществляться только из этой области
+for example: tp_stick user 1 1 1 0 0 0 10 10 10 - give to the user stick for teleport to 1 1 1 if the entity is in the area between 0 0 0 and 10 10 10=к примеру: tp_stick user 1 1 1 0 0 0 10 10 10 - выдать user tp_stick для телепорта в 1 1 1 если сущьность находится в области между 0 0 0 и 10 10 10
+Incorrect tp_stick metadata=Неправильные метаданные tp_stick

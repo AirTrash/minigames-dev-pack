@@ -1,0 +1,4 @@
+texture taken from here: "https://github.com/minetest-mods/mesecons.git" and slightly modified (replaced yellow with blue) original distributed under license CC-BY-SA-3.0
+
+some parts of the code were also taken from https://github.com/minetest-mods/mesecons/tree/8e30ee411347e6552cb5a9f28ea3069805853ea3/mesecons_commandblock
+the license for the code can be found in the repository above
