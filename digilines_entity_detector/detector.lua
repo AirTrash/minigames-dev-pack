@@ -39,6 +39,15 @@ minetest.register_node("digilines_entity_detector:entity_detector", {
 	}
 })
 
+minetest.register_craft({
+	output = "digilines_entity_detector:entity_detector",
+	recipe = {
+		{"mesecons_gamecompat:steel_ingot", "digilines:wire_std_00000000", "mesecons_gamecompat:steel_ingot"},
+		{"mesecons_gamecompat:steel_ingot", "mesecons_microcontroller:microcontroller0000", "mesecons_gamecompat:steel_ingot"},
+		{"mesecons_gamecompat:steel_ingot", "digilines:wire_std_00000000", "mesecons_gamecompat:steel_ingot"},
+	}
+})
+
 function convert_filters(filters)
 	for i = 1, #filters do
 		local filter = filters[1]
