@@ -1,0 +1,5 @@
+The texture used is a slightly modified texture from: https://github.com/minetest-mirrors/digistuff/blob/master/textures/digistuff_digidetector.png
+
+the license for the original texture can be found in: https://github.com/minetest-mirrors/digistuff/tree/master
+
+added yellow color in the corners
